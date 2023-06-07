@@ -2,6 +2,10 @@
 
 An Assignment on the binary search tree from the Data Structure course
 
+# Ex1. Map it!
+
+🍭 `70 points`
+
 ## Overview
 
 The `Map` class (often referred to as a "dictionary" or a "symbol table") is implemented as a binary search tree that stores in each node a **key** and a corresponding value. For example:
