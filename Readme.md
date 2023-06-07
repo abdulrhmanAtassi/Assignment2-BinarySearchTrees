@@ -80,3 +80,12 @@ This function checks if there are any duplicate values (not keys) in the tree. T
 **(5)** `V max_value() const` (16 points)
 
 This function returns the maximum value (not key) that is in the tree. It throws a string exception if the map is empty. The function must run in O(n).
+
+Notes:
+
+- You are allowed to add new data members to class Map but not to class Node.
+- You are allowed to add new private functions, but not new public functions.
+- You are allowed to modify the implementation of the constructor.
+- You are not allowed to modify the implementation of any of the given functions (except the constructor).
+
+- All of your implementation must be provided in map.h.
